@@ -147,8 +147,6 @@ Through this project, the following concepts were implemented and understood:
 
 ---
 
----
-
 ## 🚀 Future Enhancements
 
 * Add Dark Mode
