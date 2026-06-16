@@ -147,14 +147,6 @@ Through this project, the following concepts were implemented and understood:
 
 ---
 
-## 📸 Project Preview
-
-Add a screenshot of your landing page here after uploading it to GitHub.
-
-```md
-![Landing Page Screenshot](screenshot.png)
-```
-
 ---
 
 ## 🚀 Future Enhancements
